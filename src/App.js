@@ -21,7 +21,7 @@ class App extends Component {
 
   imageTagCreater = images => {
     return images.map(image => {
-      return <Image src={image.url} key={image.id} />;
+      return <Image src={image.url} key={image.id} fluid />;
     });
   };
 
