@@ -42,7 +42,9 @@ class App extends Component {
               </Label>
               <br />
               <br />
-              <Container textAlign="left">{body}</Container>
+              <Container textAlign="left" className="paragraph-spacing">
+                {body}
+              </Container>
             </Container>
           </Grid.Column>
           <Grid.Column width={1} />
