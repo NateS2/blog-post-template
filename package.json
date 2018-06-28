@@ -10,7 +10,7 @@
     "typography": "^0.16.17",
     "typography-theme-st-annes": "^0.15.10",
     "typography-theme-stardust": "^0.16.14",
-    "zupage": "^1.0.37"
+    "zupage": "^1.0.41"
   },
   "scripts": {
     "start": "react-scripts start",
